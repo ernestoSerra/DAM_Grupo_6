@@ -1,0 +1,28 @@
+#SceneSceneLogin #usuario{
+	position : absolute;
+	left : 570px;
+	top : 40px;
+	width : 173px;
+}
+#SceneSceneLogin #pass{
+	position : absolute;
+	left : 570px;
+	top : 140px;
+	width : 173px;
+}
+#SceneSceneLogin #svecLabel_frep{
+	position : absolute;
+	font-size : 18pt;
+	color : #ffffff;
+	left : 590px;
+	top : 20px;
+	width : 130px;
+}
+#SceneSceneLogin #svecLabel_laqt{
+	position : absolute;
+	font-size : 18pt;
+	color : #ffffff;
+	left : 590px;
+	top : 120px;
+	width : 130px;
+}

@@ -1,0 +1,13 @@
+{
+ "files": [],
+ "scenes": [
+  "Scene1",
+  "ScenePeliculas",
+  "SceneSeries",
+  "SceneInfoItem",
+  "SceneGeneros",
+  "SceneLogin"
+ ],
+ "theme": "base",
+ "modules": ["ime"]
+}

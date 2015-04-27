@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:tv.samsung.sdk="http://www.samsung.com/tvsdk">
+  <tv.samsung.sdk:VisualScene xmi:id="_2ieUoORMEeGc3-aXEl7Rpg" sId="Scene1" sName="" sType="0" sBgImage="" sBgClr="#ffffff" sWidth="1280" sHeight="720">
+    <sComponents xmi:type="tv.samsung.sdk:VisualCtrlComponent" xmi:id="_z70I4OqQEeSED6d2FkocDA" sWidth="1280.0" sHeight="45.0" sBgImage="helpbar/helpbar.png" sResolution="720" sId="svecKeyHelp_vhg4" sCaption="" sResizeOpt="ResizeOption_Width" sUserCodeIncludeJs="" sUserCodeInit="" sUserCodeDestroy="" sUserLibJs="" sUserLibImgDir="" sUserLibCss="" sType="helpbar" sFunctionName="sfKeyHelp" sLockCaption="true" sLockWidth="true" sLockHeight="true" sLockBgImage="true" sNeedResolution="true">
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_z70I4eqQEeSED6d2FkocDA" sType="NUMBER" sValue="740px" sName="left"/>
+      <sCssAttrs xmi:type="tv.samsung.sdk:CssAttrStruct" xmi:id="_z70I4uqQEeSED6d2FkocDA" sType="NUMBER" sValue="449px" sName="top"/>
+      <sParams xmi:type="tv.samsung.sdk:ParamStruct" xmi:id="_z70I4-qQEeSED6d2FkocDA" sAllowArrayNameChange="true" sNullString="" sName="'return'" sOrder="-1" sValue="Return"/>
+    </sComponents>
+  </tv.samsung.sdk:VisualScene>
+  <notation:Diagram xmi:id="_ool1MOjwEeSUPajGJIFOpg" type="VisualScene" element="_2ieUoORMEeGc3-aXEl7Rpg" name="Scene1.scene" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_z73MMOqQEeSED6d2FkocDA" type="2001" element="_z70I4OqQEeSED6d2FkocDA" fontName="Segoe UI">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_z73MMeqQEeSED6d2FkocDA" y="680"/>
+    </children>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_2ieUouRMEeGc3-aXEl7Rpg"/>
+  </notation:Diagram>
+</xmi:XMI>

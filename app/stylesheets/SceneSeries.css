@@ -1,0 +1,31 @@
+#SceneSceneSeries{
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	font-family: 'Open Sans', sans-serif;
+	
+
+}
+
+#wrapper {
+	width: 816px;
+	height: 700px;
+	margin: -350px 0 0 -405px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+#carousel img {
+	display: block;
+	float: left;
+	border: none;
+	position: relative;
+}
+#SceneSceneSeries #svecKeyHelp_yhq7{
+	position : absolute;
+	left : 0px;
+	top : 680px;
+}
+

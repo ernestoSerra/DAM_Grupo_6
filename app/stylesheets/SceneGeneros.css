@@ -1,0 +1,44 @@
+#SceneSceneGeneros {
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	
+}
+.row {
+	margin-top: 10px;
+	margin-left:auto;
+	margin-rigth:auto;
+}
+
+.genero2 {
+	margin-left: 80px
+}
+
+.genero1 {
+	margin-left: 55px
+}
+
+.borde{
+	border: 3px solid white;
+	border-radius: 20px;
+	
+}
+
+.title {
+	color:white;
+	font-size: 80px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+
+#generos .selected img {
+	border: 7px solid darkorange;
+	border-radius: 20px;
+}
+#SceneSceneGeneros #svecKeyHelp_35ow{
+	position : absolute;
+	left : 0px;
+	top : 680px;
+}

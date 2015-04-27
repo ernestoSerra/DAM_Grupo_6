@@ -1,0 +1,80 @@
+#SceneSceneInfoItem {
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	font-family: 'Open Sans', sans-serif;
+	background-color: rgba(10,10,10,1);
+}
+
+.row {
+	margin: 0;
+	margin-bottom: 20px;
+}
+
+#movies img {
+	width: 100%;
+	margin-top: 10px;
+}
+
+#movies .selected img {
+	-webkit-box-shadow: 0px 0px 0px 5px rgba(214,74,50,1);
+	-moz-box-shadow: 0px 0px 0px 5px rgba(214,74,50,1);
+	box-shadow: 0px 0px 0px 5px rgba(214,74,50,1);
+}
+
+#details {
+	width: 100%;
+	height: 100%;
+}
+
+#details #content {
+	width: 100%;
+	height: 100%;
+	background-color: rgba(10,10,10,0.7);
+	color: #FFF;
+}
+
+#details #content img {
+	margin-top: 50px;
+}
+
+#details #content h1 {
+	margin-top: 100px;
+	color:white;
+}
+
+#details #content h2 {
+	font-size: 1.6em;
+	margin-bottom: 20px;
+	color:white;
+}
+
+#sinopsis {
+	color:white;
+	margin-bottom: 40px;
+}
+#SceneSceneInfoItem #svecKeyHelp_i885{
+	position : absolute;
+	left : 0px;
+	top : 680px;
+}
+
+#puntuacionTotal{
+	width: 95px;
+	border: 1px solid darkorange;
+	font-size:36px;
+	text-align: center;
+	margin-left: 135px;
+}
+
+#puntua{
+	text-align: center;
+}
+
+#stars{
+	text-align: center;
+	
+}
+

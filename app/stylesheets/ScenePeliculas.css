@@ -1,0 +1,60 @@
+#SceneScenePeliculas {
+	position : absolute;
+	left : 0px;
+	top : 0px;
+	width : 1280px;
+	height : 720px;
+	font-family: 'Open Sans', sans-serif;
+	
+
+}
+
+#wrapper {
+	width: 816px;
+	height: 675px;
+	margin: -350px 0 0 -405px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+#carousel img {
+	display: block;
+	float: left;
+	border: none;
+	position: relative;
+}
+
+#flechaIzq {
+	margin-left:20px;
+}
+#flechaDer {
+	margin-left:1240px;
+}
+#SceneScenePeliculas #svecImage_cph1{
+	position : absolute;
+	left : 60px;
+	top : 280px;
+	width : 75px;
+	height : 100px;
+}
+#SceneScenePeliculas #svecImage_xu71{
+	position : absolute;
+	left : 1150px;
+	top : 280px;
+	width : 75px;
+	height : 100px;
+}
+
+
+
+#SceneScenePeliculas #helpBar{
+	position : absolute;
+	left : 0px;
+	top : 680px;
+}
+
+#SceneScenePeliculas #svecKeyHelp_9lc7{
+	position : absolute;
+	left : 0px;
+	top : 680px;
+}
